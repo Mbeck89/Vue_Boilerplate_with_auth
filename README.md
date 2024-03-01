@@ -1,4 +1,4 @@
-# ai-chat-v2
+# Vue_Boilerplate_with_msal
 
 Boilerplate Template for Vue3 App with Authentication using an Azure App Registration
 
